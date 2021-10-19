@@ -13,10 +13,14 @@ preprint][arxiv]).
 
 ## Installation
 
+
 ```r
-## install.packages("devtools")
+## install.packages("devtools")  
 devtools::install_github("spencerwoody/possum")
 ```
+
+Installation on Mac OSX may first require installation of an R-compatible Fortran complier, which can be found here:
+https://mac.r-project.org/tools/
 
 ## Contact
 
